@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+playwright/.auth/
+
+# Secrets & env
+.env
+.env.local
+.env.*.local
+*.pem
+secrets/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs & temp
+*.log
+logs/
+tmp/
+temp/
+activity.log
+
+# Build
+dist/
+build/
+coverage/
+
+# Misc
+*.tgz
