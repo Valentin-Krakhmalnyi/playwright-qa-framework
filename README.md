@@ -65,3 +65,4 @@ playwright-qa-framework/
 Valentin Krakhmalnyi — QA Automation Engineer focused on reliable, scalable test frameworks.
 
 Contributions and feedback are welcome.
+// Maintenance note: Slightly increase timeout for cart operations
