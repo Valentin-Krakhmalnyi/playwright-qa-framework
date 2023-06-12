@@ -27,3 +27,4 @@ export const test = base.extend<MyFixtures>({
 });
 
 export { expect } from '@playwright/test';
+// Update API client headers for consistency - 2023-06-12
