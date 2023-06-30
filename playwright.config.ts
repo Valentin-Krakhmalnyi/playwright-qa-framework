@@ -35,3 +35,4 @@ export default defineConfig({
     { name: 'api', testDir: './tests/api', use: {} },
   ],
 });
+// Maintenance note: Strengthen type definitions in fixtures
