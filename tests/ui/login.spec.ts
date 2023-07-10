@@ -29,3 +29,4 @@ test.describe('Login functionality @smoke', () => {
     await loginPage.expectErrorVisible();
   });
 });
+// Maintenance note: Add edge case comment in BasePage retry logic
