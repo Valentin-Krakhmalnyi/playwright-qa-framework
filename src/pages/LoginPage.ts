@@ -41,3 +41,4 @@ export class LoginPage extends BasePage {
     await this.login('standard_user', 'secret_sauce');
   }
 }
+// Enhance error message matching in negative tests - 2023-07-25
