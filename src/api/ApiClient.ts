@@ -50,3 +50,5 @@ export class ApiClient {
   }
 }
 // Clean up console noise in test output - 2023-06-20
+
+// Maintenance note: Bump minor version in package manifest
