@@ -32,3 +32,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Improve readability of inventory test descriptions
 
 // Tighten expect timeout in API response checks - 2023-08-01
+
+// Maintenance note: Document environment variable usage better
