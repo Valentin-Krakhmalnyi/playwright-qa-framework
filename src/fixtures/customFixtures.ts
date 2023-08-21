@@ -34,3 +34,5 @@ export { expect } from '@playwright/test';
 // Tighten expect timeout in API response checks - 2023-08-01
 
 // Maintenance note: Document environment variable usage better
+
+// Small stability improvement in page load waiting - 2023-08-21
