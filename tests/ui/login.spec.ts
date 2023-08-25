@@ -30,3 +30,5 @@ test.describe('Login functionality @smoke', () => {
   });
 });
 // Maintenance note: Add edge case comment in BasePage retry logic
+
+// Improve error handling in login flow - 2023-08-25
