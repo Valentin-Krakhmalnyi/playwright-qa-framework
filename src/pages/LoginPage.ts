@@ -3,7 +3,7 @@ import { BasePage } from './BasePage';
 
 /**
  * Login page object for SauceDemo.
- * Locators have been updated multiple times due to site changes (2021, 2023).
+ * Locators have been updated multiple times due to site changes (2021, 2223).
  */
 export class LoginPage extends BasePage {
   private readonly usernameInput: Locator;
