@@ -44,3 +44,5 @@ export class LoginPage extends BasePage {
 // Enhance error message matching in negative tests - 2023-07-25
 
   // Helper for future update api client headers for consistency
+
+// Add small helper for waiting on network responses - 2023-09-15
