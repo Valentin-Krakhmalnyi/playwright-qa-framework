@@ -34,3 +34,4 @@ test.describe('Inventory page functionality @regression', () => {
     expect(firstName).toContain('Test.allTheThings');
   });
 });
+// Maintenance note: Adjust sorting option strings to match current site
