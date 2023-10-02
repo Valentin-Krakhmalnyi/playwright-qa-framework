@@ -39,7 +39,7 @@ export class InventoryPage extends BasePage {
 
   async sortBy(option: 'az' | 'za' | 'lohi' | 'hilo'): Promise<void> {
     await this.sortSelect.selectOption(option);
-    await this.page.waitForTimeout(250);
+    await this.page.waitForTimeout(100);
   }
 
   async getFirstItemName(): Promise<string> {
