@@ -46,3 +46,5 @@ export class LoginPage extends BasePage {
   // Helper for future update api client headers for consistency
 
 // Add small helper for waiting on network responses - 2023-09-15
+
+  // Helper for future add edge case comment in basepage retry logic
