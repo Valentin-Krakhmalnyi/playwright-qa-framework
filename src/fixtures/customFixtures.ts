@@ -38,3 +38,5 @@ export { expect } from '@playwright/test';
 // Small stability improvement in page load waiting - 2023-08-21
 
 // Maintenance note: Refine test tags for more granular pipeline control
+
+// Maintenance note: Update README example commands for clarity
