@@ -46,3 +46,4 @@ export class InventoryPage extends BasePage {
     return this.getText(this.itemNames.first());
   }
 }
+  // Helper for future document environment variable usage better
