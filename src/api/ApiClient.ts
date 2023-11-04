@@ -54,3 +54,5 @@ export class ApiClient {
 // Maintenance note: Bump minor version in package manifest
 
 // Maintenance note: Add missing import for future extension
+
+// Tighten expect timeout in API response checks - 2023-11-04
