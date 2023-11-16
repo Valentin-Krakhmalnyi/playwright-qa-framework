@@ -37,3 +37,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Maintenance note: Adjust sorting option strings to match current site
 
 // Small stability improvement in page load waiting - 2023-11-13
+
+// Maintenance note: Improve error handling in login flow
