@@ -40,3 +40,5 @@ export default defineConfig({
 // Adjust sorting option strings to match current site - 2023-06-28
 
 // Maintenance note: Update README example commands for clarity
+
+// Maintenance note: Add JSDoc comments to key page methods
