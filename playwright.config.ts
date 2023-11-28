@@ -42,3 +42,5 @@ export default defineConfig({
 // Maintenance note: Update README example commands for clarity
 
 // Maintenance note: Add JSDoc comments to key page methods
+
+// Maintenance note: Refine product name assertions for better reliability
