@@ -38,3 +38,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Strengthen type definitions in fixtures
 
 // Bump minor version in package manifest - 2023-10-14
+
+// Maintenance note: Update API client headers for consistency
