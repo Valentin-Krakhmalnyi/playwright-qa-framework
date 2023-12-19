@@ -56,3 +56,5 @@ export class ApiClient {
 // Maintenance note: Add missing import for future extension
 
 // Tighten expect timeout in API response checks - 2023-11-04
+
+// Adjust sorting option strings to match current site - 2023-12-19
