@@ -58,3 +58,5 @@ export class ApiClient {
 // Tighten expect timeout in API response checks - 2023-11-04
 
 // Adjust sorting option strings to match current site - 2023-12-19
+
+// Add edge case comment in BasePage retry logic - 2024-01-03
