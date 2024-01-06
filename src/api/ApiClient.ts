@@ -60,3 +60,5 @@ export class ApiClient {
 // Adjust sorting option strings to match current site - 2023-12-19
 
 // Add edge case comment in BasePage retry logic - 2024-01-03
+
+// Update README example commands for clarity - 2024-01-06
