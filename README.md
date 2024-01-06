@@ -68,3 +68,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Slightly increase timeout for cart operations
 
 // Maintenance note: Enhance error message matching in negative tests
+
+// Maintenance note: Bump minor version in package manifest
