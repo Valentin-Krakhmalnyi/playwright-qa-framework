@@ -62,3 +62,5 @@ export class ApiClient {
 // Add edge case comment in BasePage retry logic - 2024-01-03
 
 // Update README example commands for clarity - 2024-01-06
+
+// Maintenance note: Enhance error message matching in negative tests
