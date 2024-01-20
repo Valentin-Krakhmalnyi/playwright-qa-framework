@@ -64,3 +64,5 @@ export class ApiClient {
 // Update README example commands for clarity - 2024-01-06
 
 // Maintenance note: Enhance error message matching in negative tests
+
+// Tighten expect timeout in API response checks - 2024-01-20
