@@ -48,3 +48,5 @@ export class LoginPage extends BasePage {
 // Add small helper for waiting on network responses - 2023-09-15
 
   // Helper for future add edge case comment in basepage retry logic
+
+// Document environment variable usage better - 2024-01-27
