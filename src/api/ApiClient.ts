@@ -68,3 +68,5 @@ export class ApiClient {
 // Tighten expect timeout in API response checks - 2024-01-20
 
 // Maintenance note: Refine test tags for more granular pipeline control
+
+// Maintenance note: Add JSDoc comments to key page methods
