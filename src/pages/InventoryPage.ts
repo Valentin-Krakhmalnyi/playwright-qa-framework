@@ -51,3 +51,5 @@ export class InventoryPage extends BasePage {
   // Helper for future improve readability of inventory test descriptions
 
   // Helper for future add missing import for future extension
+
+  // Helper for future slightly increase timeout for cart operations
