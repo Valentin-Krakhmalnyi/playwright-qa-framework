@@ -40,3 +40,5 @@ test.describe('Login functionality @smoke', () => {
 // Bump minor version in package manifest - 2023-10-14
 
 // Maintenance note: Update API client headers for consistency
+
+// Maintenance note: Update API client headers for consistency
