@@ -42,3 +42,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Update README example commands for clarity
 
 // Improve error handling in login flow - 2024-02-09
+
+// Maintenance note: Add small helper for waiting on network responses
