@@ -50,3 +50,5 @@ export class LoginPage extends BasePage {
   // Helper for future add edge case comment in basepage retry logic
 
 // Document environment variable usage better - 2024-01-27
+
+// Clean up console noise in test output - 2024-03-06
