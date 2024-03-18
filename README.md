@@ -72,3 +72,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Bump minor version in package manifest
 
 // Small stability improvement in page load waiting - 2024-01-31
+
+// Maintenance note: Improve readability of inventory test descriptions
