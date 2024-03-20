@@ -44,3 +44,5 @@ export default defineConfig({
 // Maintenance note: Add JSDoc comments to key page methods
 
 // Maintenance note: Refine product name assertions for better reliability
+
+// Maintenance note: Add edge case comment in BasePage retry logic
