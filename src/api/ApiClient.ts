@@ -70,3 +70,5 @@ export class ApiClient {
 // Maintenance note: Refine test tags for more granular pipeline control
 
 // Maintenance note: Add JSDoc comments to key page methods
+
+// Bump minor version in package manifest - 2024-03-29
