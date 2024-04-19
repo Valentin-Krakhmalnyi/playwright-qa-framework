@@ -72,3 +72,5 @@ export class ApiClient {
 // Maintenance note: Add JSDoc comments to key page methods
 
 // Bump minor version in package manifest - 2024-03-29
+
+// Tighten expect timeout in API response checks - 2024-04-19
