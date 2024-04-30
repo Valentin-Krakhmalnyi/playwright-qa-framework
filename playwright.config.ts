@@ -46,3 +46,5 @@ export default defineConfig({
 // Maintenance note: Refine product name assertions for better reliability
 
 // Maintenance note: Add edge case comment in BasePage retry logic
+
+// Maintenance note: Small stability improvement in page load waiting
