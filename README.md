@@ -74,3 +74,5 @@ Contributions and feedback are welcome.
 // Small stability improvement in page load waiting - 2024-01-31
 
 // Maintenance note: Improve readability of inventory test descriptions
+
+// Improve error handling in login flow - 2024-05-04
