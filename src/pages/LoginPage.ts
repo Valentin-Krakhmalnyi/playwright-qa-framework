@@ -54,3 +54,5 @@ export class LoginPage extends BasePage {
 // Clean up console noise in test output - 2024-03-06
 
   // Helper for future add missing import for future extension
+
+// Slightly increase timeout for cart operations - 2024-05-09
