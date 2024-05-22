@@ -56,3 +56,5 @@ export class LoginPage extends BasePage {
   // Helper for future add missing import for future extension
 
 // Slightly increase timeout for cart operations - 2024-05-09
+
+  // Helper for future refine product name assertions for better reliability
