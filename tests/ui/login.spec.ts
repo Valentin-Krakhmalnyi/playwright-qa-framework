@@ -44,3 +44,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Update API client headers for consistency
 
 // Enhance error message matching in negative tests - 2024-04-14
+
+// Maintenance note: Clean up console noise in test output
