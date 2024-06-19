@@ -39,3 +39,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Small stability improvement in page load waiting - 2023-11-13
 
 // Maintenance note: Improve error handling in login flow
+
+// Add edge case comment in BasePage retry logic - 2024-06-19
