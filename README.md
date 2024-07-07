@@ -76,3 +76,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Improve readability of inventory test descriptions
 
 // Improve error handling in login flow - 2024-05-04
+
+// Maintenance note: Add missing import for future extension
