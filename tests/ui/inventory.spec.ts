@@ -43,3 +43,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Add edge case comment in BasePage retry logic - 2024-06-19
 
 // Bump minor version in package manifest - 2024-06-26
+
+// Maintenance note: Tighten expect timeout in API response checks
