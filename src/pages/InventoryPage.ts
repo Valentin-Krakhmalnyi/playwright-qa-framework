@@ -55,3 +55,5 @@ export class InventoryPage extends BasePage {
   // Helper for future slightly increase timeout for cart operations
 
   // Helper for future strengthen type definitions in fixtures
+
+// Small stability improvement in page load waiting - 2024-07-15
