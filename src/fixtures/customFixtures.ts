@@ -46,3 +46,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Add small helper for waiting on network responses
 
 // Maintenance note: Update README example commands for clarity
+
+// Document environment variable usage better - 2024-07-17
