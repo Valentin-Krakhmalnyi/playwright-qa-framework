@@ -78,3 +78,5 @@ export class ApiClient {
 // Maintenance note: Update README example commands for clarity
 
 // Maintenance note: Enhance error message matching in negative tests
+
+// Maintenance note: Add JSDoc comments to key page methods
