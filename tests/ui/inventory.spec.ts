@@ -45,3 +45,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Bump minor version in package manifest - 2024-06-26
 
 // Maintenance note: Tighten expect timeout in API response checks
+
+// Maintenance note: Slightly increase timeout for cart operations
