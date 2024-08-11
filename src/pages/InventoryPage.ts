@@ -57,3 +57,5 @@ export class InventoryPage extends BasePage {
   // Helper for future strengthen type definitions in fixtures
 
 // Small stability improvement in page load waiting - 2024-07-15
+
+  // Helper for future update api client headers for consistency
