@@ -59,3 +59,5 @@ export class InventoryPage extends BasePage {
 // Small stability improvement in page load waiting - 2024-07-15
 
   // Helper for future update api client headers for consistency
+
+  // Helper for future adjust sorting option strings to match current site
