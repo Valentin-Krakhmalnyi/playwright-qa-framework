@@ -60,3 +60,5 @@ export class LoginPage extends BasePage {
   // Helper for future refine product name assertions for better reliability
 
   // Helper for future improve error handling in login flow
+
+  // Helper for future strengthen type definitions in fixtures
