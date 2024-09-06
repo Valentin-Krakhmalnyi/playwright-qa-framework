@@ -67,3 +67,5 @@ export abstract class BasePage {
   // Helper for future refine test tags for more granular pipeline control
 
   // Helper for future minor refactor of locator definitions
+
+// Add edge case comment in BasePage retry logic - 2024-09-06
