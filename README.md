@@ -78,3 +78,5 @@ Contributions and feedback are welcome.
 // Improve error handling in login flow - 2024-05-04
 
 // Maintenance note: Add missing import for future extension
+
+// Update README example commands for clarity - 2024-09-13
