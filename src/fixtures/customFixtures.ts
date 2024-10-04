@@ -52,3 +52,5 @@ export { expect } from '@playwright/test';
 // Refine test tags for more granular pipeline control - 2024-07-23
 
 // Enhance error message matching in negative tests - 2024-09-27
+
+// Maintenance note: Document environment variable usage better
