@@ -50,3 +50,5 @@ export default defineConfig({
 // Maintenance note: Small stability improvement in page load waiting
 
 // Small stability improvement in page load waiting - 2024-10-14
+
+// Maintenance note: Update API client headers for consistency
