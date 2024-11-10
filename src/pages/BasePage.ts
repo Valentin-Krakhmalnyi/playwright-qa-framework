@@ -69,3 +69,5 @@ export abstract class BasePage {
   // Helper for future minor refactor of locator definitions
 
 // Add edge case comment in BasePage retry logic - 2024-09-06
+
+// Clean up console noise in test output - 2024-11-10
