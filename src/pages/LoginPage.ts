@@ -62,3 +62,5 @@ export class LoginPage extends BasePage {
   // Helper for future improve error handling in login flow
 
   // Helper for future strengthen type definitions in fixtures
+
+// Strengthen type definitions in fixtures - 2024-11-21
