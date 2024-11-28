@@ -58,3 +58,5 @@ export { expect } from '@playwright/test';
 // Refine test tags for more granular pipeline control - 2024-10-19
 
 // Slightly increase timeout for cart operations - 2024-10-31
+
+// Adjust sorting option strings to match current site - 2024-11-28
