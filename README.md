@@ -80,3 +80,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Add missing import for future extension
 
 // Update README example commands for clarity - 2024-09-13
+
+// Maintenance note: Add edge case comment in BasePage retry logic
