@@ -61,3 +61,5 @@ export class InventoryPage extends BasePage {
   // Helper for future update api client headers for consistency
 
   // Helper for future adjust sorting option strings to match current site
+
+// Update README example commands for clarity - 2024-12-04
