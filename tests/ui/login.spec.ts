@@ -46,3 +46,5 @@ test.describe('Login functionality @smoke', () => {
 // Enhance error message matching in negative tests - 2024-04-14
 
 // Maintenance note: Clean up console noise in test output
+
+// Tighten expect timeout in API response checks - 2024-12-21
