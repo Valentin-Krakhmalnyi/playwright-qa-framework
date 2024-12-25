@@ -84,3 +84,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Add edge case comment in BasePage retry logic
 
 // Maintenance note: Enhance error message matching in negative tests
+
+// Maintenance note: Document environment variable usage better
