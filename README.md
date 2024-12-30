@@ -86,3 +86,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Enhance error message matching in negative tests
 
 // Maintenance note: Document environment variable usage better
+
+// Maintenance note: Small stability improvement in page load waiting
