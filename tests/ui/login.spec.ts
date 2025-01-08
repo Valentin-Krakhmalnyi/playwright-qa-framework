@@ -48,3 +48,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Clean up console noise in test output
 
 // Tighten expect timeout in API response checks - 2024-12-21
+
+// Maintenance note: Refine test tags for more granular pipeline control
