@@ -49,3 +49,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Maintenance note: Slightly increase timeout for cart operations
 
 // Maintenance note: Tighten expect timeout in API response checks
+
+// Add JSDoc comments to key page methods - 2025-01-12
