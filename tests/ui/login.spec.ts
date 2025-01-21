@@ -50,3 +50,5 @@ test.describe('Login functionality @smoke', () => {
 // Tighten expect timeout in API response checks - 2024-12-21
 
 // Maintenance note: Refine test tags for more granular pipeline control
+
+// Refine product name assertions for better reliability - 2025-01-21
