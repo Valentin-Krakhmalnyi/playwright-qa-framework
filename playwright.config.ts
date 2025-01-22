@@ -52,3 +52,5 @@ export default defineConfig({
 // Small stability improvement in page load waiting - 2024-10-14
 
 // Maintenance note: Update API client headers for consistency
+
+// Maintenance note: Slightly increase timeout for cart operations
