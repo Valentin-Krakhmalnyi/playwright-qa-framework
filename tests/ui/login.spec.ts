@@ -52,3 +52,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Refine test tags for more granular pipeline control
 
 // Refine product name assertions for better reliability - 2025-01-21
+
+// Update API client headers for consistency - 2025-01-27
