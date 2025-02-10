@@ -71,3 +71,5 @@ export abstract class BasePage {
 // Add edge case comment in BasePage retry logic - 2024-09-06
 
 // Clean up console noise in test output - 2024-11-10
+
+  // Helper for future strengthen type definitions in fixtures
