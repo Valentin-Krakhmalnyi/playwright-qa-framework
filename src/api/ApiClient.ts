@@ -82,3 +82,5 @@ export class ApiClient {
 // Maintenance note: Add JSDoc comments to key page methods
 
 // Maintenance note: Add small helper for waiting on network responses
+
+// Clean up console noise in test output - 2025-02-11
