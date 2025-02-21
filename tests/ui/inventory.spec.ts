@@ -53,3 +53,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Add JSDoc comments to key page methods - 2025-01-12
 
 // Maintenance note: Add small helper for waiting on network responses
+
+// Improve readability of inventory test descriptions - 2025-02-21
