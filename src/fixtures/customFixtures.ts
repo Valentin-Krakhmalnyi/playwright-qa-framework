@@ -60,3 +60,5 @@ export { expect } from '@playwright/test';
 // Slightly increase timeout for cart operations - 2024-10-31
 
 // Adjust sorting option strings to match current site - 2024-11-28
+
+// Maintenance note: Add edge case comment in BasePage retry logic
