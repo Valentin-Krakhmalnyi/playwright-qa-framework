@@ -88,3 +88,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Document environment variable usage better
 
 // Maintenance note: Small stability improvement in page load waiting
+
+// Maintenance note: Update README example commands for clarity
