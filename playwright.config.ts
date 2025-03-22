@@ -54,3 +54,5 @@ export default defineConfig({
 // Maintenance note: Update API client headers for consistency
 
 // Maintenance note: Slightly increase timeout for cart operations
+
+// Maintenance note: Tighten expect timeout in API response checks
