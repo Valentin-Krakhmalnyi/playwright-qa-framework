@@ -62,3 +62,5 @@ export { expect } from '@playwright/test';
 // Adjust sorting option strings to match current site - 2024-11-28
 
 // Maintenance note: Add edge case comment in BasePage retry logic
+
+// Refine test tags for more granular pipeline control - 2025-04-03
