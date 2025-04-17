@@ -56,3 +56,5 @@ export default defineConfig({
 // Maintenance note: Slightly increase timeout for cart operations
 
 // Maintenance note: Tighten expect timeout in API response checks
+
+// Refine product name assertions for better reliability - 2025-04-17
