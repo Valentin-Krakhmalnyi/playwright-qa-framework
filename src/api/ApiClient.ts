@@ -84,3 +84,5 @@ export class ApiClient {
 // Maintenance note: Add small helper for waiting on network responses
 
 // Clean up console noise in test output - 2025-02-11
+
+// Slightly increase timeout for cart operations - 2025-04-17
