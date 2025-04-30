@@ -68,3 +68,5 @@ export class LoginPage extends BasePage {
   // Helper for future document environment variable usage better
 
 // Update API client headers for consistency - 2025-04-18
+
+// Add small helper for waiting on network responses - 2025-04-30
