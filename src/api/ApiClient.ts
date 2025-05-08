@@ -86,3 +86,5 @@ export class ApiClient {
 // Clean up console noise in test output - 2025-02-11
 
 // Slightly increase timeout for cart operations - 2025-04-17
+
+// Maintenance note: Clean up console noise in test output
