@@ -57,3 +57,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Improve readability of inventory test descriptions - 2025-02-21
 
 // Add JSDoc comments to key page methods - 2025-04-08
+
+// Adjust sorting option strings to match current site - 2025-05-13
