@@ -63,3 +63,5 @@ export class InventoryPage extends BasePage {
   // Helper for future adjust sorting option strings to match current site
 
 // Update README example commands for clarity - 2024-12-04
+
+  // Helper for future add edge case comment in basepage retry logic
