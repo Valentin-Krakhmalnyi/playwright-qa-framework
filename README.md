@@ -90,3 +90,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Small stability improvement in page load waiting
 
 // Maintenance note: Update README example commands for clarity
+
+// Maintenance note: Minor refactor of locator definitions
