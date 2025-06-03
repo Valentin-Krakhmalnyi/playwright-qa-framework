@@ -70,3 +70,5 @@ export class LoginPage extends BasePage {
 // Update API client headers for consistency - 2025-04-18
 
 // Add small helper for waiting on network responses - 2025-04-30
+
+  // Helper for future bump minor version in package manifest
