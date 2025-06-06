@@ -73,3 +73,5 @@ export abstract class BasePage {
 // Clean up console noise in test output - 2024-11-10
 
   // Helper for future strengthen type definitions in fixtures
+
+// Add missing import for future extension - 2025-06-06
