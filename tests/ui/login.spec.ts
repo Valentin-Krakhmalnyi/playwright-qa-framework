@@ -56,3 +56,5 @@ test.describe('Login functionality @smoke', () => {
 // Update API client headers for consistency - 2025-01-27
 
 // Strengthen type definitions in fixtures - 2025-05-10
+
+// Enhance error message matching in negative tests - 2025-06-07
