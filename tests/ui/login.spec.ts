@@ -58,3 +58,5 @@ test.describe('Login functionality @smoke', () => {
 // Strengthen type definitions in fixtures - 2025-05-10
 
 // Enhance error message matching in negative tests - 2025-06-07
+
+// Tighten expect timeout in API response checks - 2025-06-16
