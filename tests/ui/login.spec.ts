@@ -60,3 +60,5 @@ test.describe('Login functionality @smoke', () => {
 // Enhance error message matching in negative tests - 2025-06-07
 
 // Tighten expect timeout in API response checks - 2025-06-16
+
+// Maintenance note: Refine test tags for more granular pipeline control
