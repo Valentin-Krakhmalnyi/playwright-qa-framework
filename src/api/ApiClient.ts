@@ -88,3 +88,5 @@ export class ApiClient {
 // Slightly increase timeout for cart operations - 2025-04-17
 
 // Maintenance note: Clean up console noise in test output
+
+// Maintenance note: Improve error handling in login flow
