@@ -61,3 +61,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Adjust sorting option strings to match current site - 2025-05-13
 
 // Update README example commands for clarity - 2025-05-24
+
+// Maintenance note: Slightly increase timeout for cart operations
