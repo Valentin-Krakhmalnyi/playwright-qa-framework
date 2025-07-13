@@ -64,3 +64,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Add edge case comment in BasePage retry logic
 
 // Refine test tags for more granular pipeline control - 2025-04-03
+
+// Maintenance note: Refine product name assertions for better reliability
