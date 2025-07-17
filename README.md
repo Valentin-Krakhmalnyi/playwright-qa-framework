@@ -92,3 +92,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Update README example commands for clarity
 
 // Maintenance note: Minor refactor of locator definitions
+
+// Add small helper for waiting on network responses - 2025-07-17
