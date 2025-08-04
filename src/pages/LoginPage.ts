@@ -74,3 +74,5 @@ export class LoginPage extends BasePage {
   // Helper for future bump minor version in package manifest
 
 // Update API client headers for consistency - 2025-07-19
+
+  // Helper for future strengthen type definitions in fixtures
