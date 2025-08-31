@@ -90,3 +90,5 @@ export class ApiClient {
 // Maintenance note: Clean up console noise in test output
 
 // Maintenance note: Improve error handling in login flow
+
+// Maintenance note: Add missing import for future extension
