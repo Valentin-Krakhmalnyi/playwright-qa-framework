@@ -76,3 +76,5 @@ export class LoginPage extends BasePage {
 // Update API client headers for consistency - 2025-07-19
 
   // Helper for future strengthen type definitions in fixtures
+
+  // Helper for future document environment variable usage better
