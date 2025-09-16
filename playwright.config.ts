@@ -58,3 +58,5 @@ export default defineConfig({
 // Maintenance note: Tighten expect timeout in API response checks
 
 // Refine product name assertions for better reliability - 2025-04-17
+
+// Refine test tags for more granular pipeline control - 2025-09-16
