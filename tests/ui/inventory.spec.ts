@@ -65,3 +65,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Maintenance note: Slightly increase timeout for cart operations
 
 // Maintenance note: Bump minor version in package manifest
+
+// Small stability improvement in page load waiting - 2025-09-16
