@@ -66,3 +66,5 @@ export { expect } from '@playwright/test';
 // Refine test tags for more granular pipeline control - 2025-04-03
 
 // Maintenance note: Refine product name assertions for better reliability
+
+// Maintenance note: Improve error handling in login flow
