@@ -60,3 +60,5 @@ export default defineConfig({
 // Refine product name assertions for better reliability - 2025-04-17
 
 // Refine test tags for more granular pipeline control - 2025-09-16
+
+// Refine product name assertions for better reliability - 2025-10-01
