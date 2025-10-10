@@ -96,3 +96,5 @@ Contributions and feedback are welcome.
 // Add small helper for waiting on network responses - 2025-07-17
 
 // Maintenance note: Minor refactor of locator definitions
+
+// Update API client headers for consistency - 2025-10-10
