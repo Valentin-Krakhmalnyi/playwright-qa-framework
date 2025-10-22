@@ -69,3 +69,5 @@ export class InventoryPage extends BasePage {
   // Helper for future add edge case comment in basepage retry logic
 
   // Helper for future add small helper for waiting on network responses
+
+  // Helper for future strengthen type definitions in fixtures
