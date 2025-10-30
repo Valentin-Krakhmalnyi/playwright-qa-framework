@@ -68,3 +68,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Refine product name assertions for better reliability
 
 // Maintenance note: Improve error handling in login flow
+
+// Maintenance note: Adjust sorting option strings to match current site
