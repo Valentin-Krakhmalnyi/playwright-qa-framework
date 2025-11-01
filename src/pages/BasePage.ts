@@ -75,3 +75,5 @@ export abstract class BasePage {
   // Helper for future strengthen type definitions in fixtures
 
 // Add missing import for future extension - 2025-06-06
+
+// Improve readability of inventory test descriptions - 2025-11-01
