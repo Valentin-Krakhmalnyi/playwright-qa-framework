@@ -94,3 +94,5 @@ export class ApiClient {
 // Maintenance note: Add missing import for future extension
 
 // Maintenance note: Clean up console noise in test output
+
+// Maintenance note: Update README example commands for clarity
