@@ -100,3 +100,5 @@ Contributions and feedback are welcome.
 // Update API client headers for consistency - 2025-10-10
 
 // Maintenance note: Add edge case comment in BasePage retry logic
+
+// Enhance error message matching in negative tests - 2025-11-21
