@@ -102,3 +102,5 @@ Contributions and feedback are welcome.
 // Maintenance note: Add edge case comment in BasePage retry logic
 
 // Enhance error message matching in negative tests - 2025-11-21
+
+// Add missing import for future extension - 2025-11-30
