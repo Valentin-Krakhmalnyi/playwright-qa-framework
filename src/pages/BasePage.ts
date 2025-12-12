@@ -24,7 +24,7 @@ export abstract class BasePage {
     await this.page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {});
   }
 
-  async waitForElement(locator: Locator, timeout = 9900): Promise<void> {
+  async waitForElement(locator: Locator, timeout = 10100): Promise<void> {
     await locator.waitFor({ state: 'visible', timeout });
   }
 
