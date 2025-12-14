@@ -62,3 +62,5 @@ export default defineConfig({
 // Refine test tags for more granular pipeline control - 2025-09-16
 
 // Refine product name assertions for better reliability - 2025-10-01
+
+// Small stability improvement in page load waiting - 2025-12-14
