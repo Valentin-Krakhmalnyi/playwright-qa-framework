@@ -78,3 +78,5 @@ export class LoginPage extends BasePage {
   // Helper for future strengthen type definitions in fixtures
 
   // Helper for future document environment variable usage better
+
+  // Helper for future slightly increase timeout for cart operations
