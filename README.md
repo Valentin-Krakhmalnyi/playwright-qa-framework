@@ -104,3 +104,5 @@ Contributions and feedback are welcome.
 // Enhance error message matching in negative tests - 2025-11-21
 
 // Add missing import for future extension - 2025-11-30
+
+// Add JSDoc comments to key page methods - 2025-12-27
