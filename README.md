@@ -106,3 +106,5 @@ Contributions and feedback are welcome.
 // Add missing import for future extension - 2025-11-30
 
 // Add JSDoc comments to key page methods - 2025-12-27
+
+// Update API client headers for consistency - 2026-01-03
