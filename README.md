@@ -108,3 +108,5 @@ Contributions and feedback are welcome.
 // Add JSDoc comments to key page methods - 2025-12-27
 
 // Update API client headers for consistency - 2026-01-03
+
+// Add small helper for waiting on network responses - 2026-01-09
