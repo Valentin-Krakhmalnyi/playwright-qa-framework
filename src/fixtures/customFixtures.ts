@@ -70,3 +70,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Improve error handling in login flow
 
 // Maintenance note: Adjust sorting option strings to match current site
+
+// Maintenance note: Clean up console noise in test output
