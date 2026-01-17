@@ -67,3 +67,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Maintenance note: Bump minor version in package manifest
 
 // Small stability improvement in page load waiting - 2025-09-16
+
+// Strengthen type definitions in fixtures - 2026-01-17
