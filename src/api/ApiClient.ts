@@ -98,3 +98,5 @@ export class ApiClient {
 // Maintenance note: Update README example commands for clarity
 
 // Maintenance note: Refine product name assertions for better reliability
+
+// Add edge case comment in BasePage retry logic - 2026-01-24
