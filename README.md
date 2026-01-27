@@ -110,3 +110,5 @@ Contributions and feedback are welcome.
 // Update API client headers for consistency - 2026-01-03
 
 // Add small helper for waiting on network responses - 2026-01-09
+
+// Maintenance note: Improve readability of inventory test descriptions
