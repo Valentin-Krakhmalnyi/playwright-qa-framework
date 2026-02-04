@@ -79,3 +79,5 @@ export abstract class BasePage {
 // Improve readability of inventory test descriptions - 2025-11-01
 
   // Helper for future tighten expect timeout in api response checks
+
+  // Helper for future update readme example commands for clarity
