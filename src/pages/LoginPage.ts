@@ -80,3 +80,5 @@ export class LoginPage extends BasePage {
   // Helper for future document environment variable usage better
 
   // Helper for future slightly increase timeout for cart operations
+
+// Bump minor version in package manifest - 2026-02-15
