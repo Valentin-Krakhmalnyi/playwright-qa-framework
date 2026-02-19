@@ -112,3 +112,5 @@ Contributions and feedback are welcome.
 // Add small helper for waiting on network responses - 2026-01-09
 
 // Maintenance note: Improve readability of inventory test descriptions
+
+// Maintenance note: Tighten expect timeout in API response checks
