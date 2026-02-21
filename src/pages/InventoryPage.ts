@@ -71,3 +71,5 @@ export class InventoryPage extends BasePage {
   // Helper for future add small helper for waiting on network responses
 
   // Helper for future strengthen type definitions in fixtures
+
+// Document environment variable usage better - 2026-02-21
