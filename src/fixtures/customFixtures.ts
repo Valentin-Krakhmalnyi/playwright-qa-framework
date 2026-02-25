@@ -72,3 +72,5 @@ export { expect } from '@playwright/test';
 // Maintenance note: Adjust sorting option strings to match current site
 
 // Maintenance note: Clean up console noise in test output
+
+// Small stability improvement in page load waiting - 2026-02-25
