@@ -81,3 +81,5 @@ export abstract class BasePage {
   // Helper for future tighten expect timeout in api response checks
 
   // Helper for future update readme example commands for clarity
+
+// Add JSDoc comments to key page methods - 2026-03-11
