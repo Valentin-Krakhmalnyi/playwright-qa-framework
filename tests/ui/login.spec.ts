@@ -64,3 +64,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Refine test tags for more granular pipeline control
 
 // Maintenance note: Add JSDoc comments to key page methods
+
+// Maintenance note: Improve error handling in login flow
