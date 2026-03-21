@@ -73,3 +73,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Minor refactor of locator definitions - 2026-02-05
 
 // Maintenance note: Enhance error message matching in negative tests
+
+// Maintenance note: Refine product name assertions for better reliability
