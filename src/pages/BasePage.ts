@@ -83,3 +83,5 @@ export abstract class BasePage {
   // Helper for future update readme example commands for clarity
 
 // Add JSDoc comments to key page methods - 2026-03-11
+
+// Slightly increase timeout for cart operations - 2026-03-24
