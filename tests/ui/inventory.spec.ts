@@ -75,3 +75,5 @@ test.describe('Inventory page functionality @regression', () => {
 // Maintenance note: Enhance error message matching in negative tests
 
 // Maintenance note: Refine product name assertions for better reliability
+
+// Update API client headers for consistency - 2026-03-25
