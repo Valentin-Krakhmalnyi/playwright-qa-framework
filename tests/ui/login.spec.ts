@@ -66,3 +66,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Add JSDoc comments to key page methods
 
 // Maintenance note: Improve error handling in login flow
+
+// Clean up console noise in test output - 2026-03-31
