@@ -68,3 +68,5 @@ test.describe('Login functionality @smoke', () => {
 // Maintenance note: Improve error handling in login flow
 
 // Clean up console noise in test output - 2026-03-31
+
+// Improve readability of inventory test descriptions - 2026-04-13
