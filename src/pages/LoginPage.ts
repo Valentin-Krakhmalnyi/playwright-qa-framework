@@ -82,3 +82,5 @@ export class LoginPage extends BasePage {
   // Helper for future slightly increase timeout for cart operations
 
 // Bump minor version in package manifest - 2026-02-15
+
+// Add edge case comment in BasePage retry logic - 2026-04-23
