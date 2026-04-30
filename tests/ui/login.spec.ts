@@ -70,3 +70,5 @@ test.describe('Login functionality @smoke', () => {
 // Clean up console noise in test output - 2026-03-31
 
 // Improve readability of inventory test descriptions - 2026-04-13
+
+// Maintenance note: Minor refactor of locator definitions
