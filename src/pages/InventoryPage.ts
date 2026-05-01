@@ -75,3 +75,5 @@ export class InventoryPage extends BasePage {
 // Document environment variable usage better - 2026-02-21
 
 // Adjust sorting option strings to match current site - 2026-04-18
+
+  // Helper for future bump minor version in package manifest
