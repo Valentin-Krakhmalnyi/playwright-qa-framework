@@ -84,3 +84,5 @@ export class LoginPage extends BasePage {
 // Bump minor version in package manifest - 2026-02-15
 
 // Add edge case comment in BasePage retry logic - 2026-04-23
+
+// Update README example commands for clarity - 2026-05-07
