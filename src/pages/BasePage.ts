@@ -85,3 +85,5 @@ export abstract class BasePage {
 // Add JSDoc comments to key page methods - 2026-03-11
 
 // Slightly increase timeout for cart operations - 2026-03-24
+
+  // Helper for future enhance error message matching in negative tests
