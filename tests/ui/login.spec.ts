@@ -72,3 +72,5 @@ test.describe('Login functionality @smoke', () => {
 // Improve readability of inventory test descriptions - 2026-04-13
 
 // Maintenance note: Minor refactor of locator definitions
+
+// Maintenance note: Add missing import for future extension
