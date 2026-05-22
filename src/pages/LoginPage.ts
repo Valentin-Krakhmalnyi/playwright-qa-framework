@@ -88,3 +88,5 @@ export class LoginPage extends BasePage {
 // Update README example commands for clarity - 2026-05-07
 
   // Helper for future document environment variable usage better
+
+  // Helper for future small stability improvement in page load waiting
