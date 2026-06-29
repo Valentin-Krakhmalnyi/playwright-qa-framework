@@ -12,9 +12,16 @@
     "test:regression": "playwright test --grep @regression",
     "lint": "eslint . --ext .ts",
     "lint:fix": "eslint . --ext .ts --fix",
-    "format": "prettier --write "**/*.{ts,js,json,md}""
+    "format": "prettier --write '**/*.{ts,js,json,md}'"
   },
-  "keywords": ["playwright", "typescript", "e2e-testing", "api-testing", "automation", "qa-framework"],
+  "keywords": [
+    "playwright",
+    "typescript",
+    "e2e-testing",
+    "api-testing",
+    "automation",
+    "qa-framework"
+  ],
   "author": "Valentin Krakhmalnyi",
   "license": "MIT",
   "devDependencies": {
